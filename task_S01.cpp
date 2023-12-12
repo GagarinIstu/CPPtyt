@@ -9,13 +9,13 @@ int main()
     double n3 = 0.85;
     char c1 = 'F';
     int summa = n1 + n2;
-    cout << "Сумма: " << summa <<endl;
+    cout << "Summa: " << summa <<endl;
     double difference = n3 - n2;
-    cout << "Разность: " << difference <<endl;
+    cout << "Difference: " << difference <<endl;
     float product = n2 * n3;
-    cout << "Умножение: " << product <<endl;
+    cout << "Multiplication: " << product <<endl;
     double quotient = n3 / n1;
-    cout << "Частное: " << quotient <<endl;
+    cout << "Quotient: " << quotient <<endl;
 
     return 0;
 }
