@@ -7,9 +7,9 @@ int main()
     int a = 5;
     int b = 2;
     int d1 = a / b;
-    cout << "Деление нацело: " << d1 << endl;
+    cout << "Division: " << d1 << endl;
     int d2 = a % b;
-    cout << "Остаток от деления: " << d2 << endl;
+    cout << "Remainder of division: " << d2 << endl;
 
     return 0;
 }
