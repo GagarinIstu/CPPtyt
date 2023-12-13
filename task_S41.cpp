@@ -8,12 +8,12 @@ float squared_sum( float A, float B){
 int main(){
     setlocale(0,"");
     float A, B;
-    cout << "Âââåäèòå ÷èñëî À:";
+    cout << "Ğ’Ğ²Ğ²ĞµĞ´Ğ¸Ñ‚Ğµ Ñ‡Ğ¸ÑĞ»Ğ¾ Ğ:";
     cin >> A;
-    cout << "Ââåäèòå ÷èñëî Â:";
+    cout << "Ğ’Ğ²ĞµĞ´Ğ¸Ñ‚Ğµ Ñ‡Ğ¸ÑĞ»Ğ¾ Ğ’:";
     cin >> B;
     float sp=squared_sum(A, B);
-    cout << "Êâàäğàò ñóììû ÷èñåë À è Â ğàâåí: "<< sp << endl;
+    cout << "ĞšĞ²Ğ°Ğ´Ñ€Ğ°Ñ‚ ÑÑƒĞ¼Ğ¼Ñ‹ Ñ‡Ğ¸ÑĞµĞ» Ğ Ğ¸ Ğ’ Ñ€Ğ°Ğ²ĞµĞ½: "<< sp << endl;
 
     return 0;
 
