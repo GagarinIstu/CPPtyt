@@ -13,9 +13,9 @@ void revers(string stroka){
 int main(){
     setlocale(0, "");
     string stroka;
-    cout << "Ââåäèòå ñòðîêó äëÿ îòçåðêàëèâàíèÿ: ";
+    cout << "Ð’Ð²ÐµÐ´Ð¸Ñ‚Ðµ ÑÑ‚Ñ€Ð¾ÐºÑƒ Ð´Ð»Ñ Ð¾Ñ‚Ð·ÐµÑ€ÐºÐ°Ð»Ð¸Ð²Ð°Ð½Ð¸Ñ: ";
     cin >> stroka;
-    cout<<"Îòçåðêàëåííàÿ ñòðîêà: ";
+    cout<<"ÐžÑ‚Ð·ÐµÑ€ÐºÐ°Ð»ÐµÐ½Ð½Ð°Ñ ÑÑ‚Ñ€Ð¾ÐºÐ°: ";
     revers(stroka);
     return 0;
 }
