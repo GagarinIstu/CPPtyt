@@ -1,7 +1,7 @@
 #include <iostream>
 
 using namespace std;
-/* Не понял часть задание, где нужно передавать значения через запятую*/
+/* Рµ РїРѕРЅСЏР» С‡Р°СЃС‚СЊ Р·Р°РґР°РЅРёРµ, РіРґРµ РЅСѓР¶РЅРѕ РїРµСЂРµРґР°РІР°С‚СЊ Р·РЅР°С‡РµРЅРёСЏ С‡РµСЂРµР· Р·Р°РїСЏС‚СѓСЋ*/
 void print(int A) {
     cout << A << endl;
 }
@@ -19,7 +19,7 @@ int main() {
     int i, i1, i2;
     float f;
     char c;
-    cout << "Введите значения int, float, char, int1 и int2:";
+    cout << "Р’РІРµРґРёС‚Рµ Р·РЅР°С‡РµРЅРёСЏ int, float, char, int1 Рё int2:";
     cin >> i;
     cin >> f;
     cin >> c;
